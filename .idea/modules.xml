@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RelanEC.iml" filepath="$PROJECT_DIR$/RelanEC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/relanec.iml" filepath="$PROJECT_DIR$/example/relanec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/relan-annotations/relan-annotations.iml" filepath="$PROJECT_DIR$/relan-annotations/relan-annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/relan-compiler/relan-compiler.iml" filepath="$PROJECT_DIR$/relan-compiler/relan-compiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/relan-core/relan-core.iml" filepath="$PROJECT_DIR$/relan-core/relan-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/relan-ec/relan-ec.iml" filepath="$PROJECT_DIR$/relan-ec/relan-ec.iml" />
+      <module fileurl="file://G:\Android\Android_Study\RelanEC\example\relanec.iml" filepath="G:\Android\Android_Study\RelanEC\example\relanec.iml" />
     </modules>
   </component>
 </project>
